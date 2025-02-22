@@ -1,1 +1,3 @@
-# constructor_js
+# Constructor JavaScript
+
+Desenvolvi um projeto simples em JavaScript para treinar a função constructor, que aprendi em sala de aula. O objetivo era reforçar meus conhecimentos na linguagem enquanto explorava a criação de objetos de forma dinâmica. No projeto, criei um construtor para representar carros, permitindo definir características como modelo, marca, ano e cor. Dessa forma, pude instanciar diferentes veículos com facilidade, praticando conceitos essenciais de programação orientada a objetos. Essa experiência me ajudou a compreender melhor como os construtores funcionam e como podem ser utilizados para estruturar dados de maneira eficiente no JavaScript.
